@@ -83,7 +83,7 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="10" selection-start="367" selection-end="367" vertical-scroll-proportion="0.4465291" vertical-offset="0" max-vertical-offset="612">
+            <state line="6" column="17" selection-start="167" selection-end="167" vertical-scroll-proportion="0.19136961" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -687,7 +687,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="1" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1051,7 +1051,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="367" selection-end="367" vertical-scroll-proportion="0.4465291" vertical-offset="0" max-vertical-offset="612">
+        <state line="6" column="17" selection-start="167" selection-end="167" vertical-scroll-proportion="0.19136961" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
