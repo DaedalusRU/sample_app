@@ -44,7 +44,7 @@
       <file leaf-file-name="microposts_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/microposts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
+            <state line="15" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="_feed_item.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/shared/_feed_item.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+            <state line="14" column="5" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="167" selection-end="167" vertical-scroll-proportion="0.1906542" vertical-offset="0" max-vertical-offset="612">
+            <state line="10" column="17" selection-start="261" selection-end="261" vertical-scroll-proportion="0.19136961" vertical-offset="68" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="static_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="5" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="952">
+            <state line="39" column="5" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1139">
               <folding />
             </state>
           </provider>
@@ -685,7 +685,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3301282" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32799146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -982,7 +982,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="5" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="952">
+        <state line="39" column="5" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1139">
           <folding />
         </state>
       </provider>
@@ -1003,7 +1003,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/microposts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+        <state line="15" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
@@ -1024,14 +1024,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/_feed_item.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
+        <state line="14" column="5" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="167" selection-end="167" vertical-scroll-proportion="0.1906542" vertical-offset="0" max-vertical-offset="612">
+        <state line="10" column="17" selection-start="261" selection-end="261" vertical-scroll-proportion="0.19136961" vertical-offset="68" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
